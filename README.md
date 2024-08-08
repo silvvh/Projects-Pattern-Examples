@@ -4,7 +4,7 @@
 
 ![template-method-pattern](https://github.com/user-attachments/assets/5e06423c-34e9-4956-9255-2cb28785568c)
 
-<p>- O padrão template nethod é um padrão que define a estrutura de um algoritmo em uma superclasse (abstrata), permitindo que as subclasses implementem ou sobrescrevam passos específicos do algoritmo sem alterar sua estrutura geral. O objetivo do Template Method é evitar duplicação de código e fornecer um ponto de extensão para algoritmos que possuem uma estrutura geral fixa, mas que necessitam de flexibilidade em certos pontos </p>
+<p>- O padrão template method é um padrão que define a estrutura de um algoritmo em uma superclasse (abstrata), permitindo que as subclasses implementem ou sobrescrevam passos específicos do algoritmo sem alterar sua estrutura geral. O objetivo do Template Method é evitar duplicação de código e fornecer um ponto de extensão para algoritmos que possuem uma estrutura geral fixa, mas que necessitam de flexibilidade em certos pontos </p>
 
 <p>- No diagrama UML fornecido, as classes podem ser definidas da seguinte forma:
 
